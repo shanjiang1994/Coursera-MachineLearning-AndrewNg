@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/shanjiang1994/Coursera-MachineLearning-AndrewNg/master/Images/v2-b56a51073fe079ee5b80f5a09d5e2bef_1440w.jpg)
+
 This is my homework solustion along with studying coursera Machine Learning.
 
 [Machine Learning
