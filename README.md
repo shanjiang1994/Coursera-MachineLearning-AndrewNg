@@ -2,6 +2,7 @@ This is my homework solustion along with studying coursera Machine Learning.
 
 [Machine Learning
 by Stanford University](https://www.coursera.org/learn/machine-learning/home/welcome)
+  
 [Cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en)
 
 
